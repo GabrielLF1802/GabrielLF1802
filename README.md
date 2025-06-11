@@ -68,5 +68,5 @@ Busca e exibe receitas consumindo dados de uma API de culinária, com uma interf
 
 <div>  
   <a href = "mailto:gabriellourencofaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="www.linkedin.com/in/gabriel-lourenço-97a833295" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-lourenço-97a833295" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
 </div>
