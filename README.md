@@ -1,92 +1,111 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielLF1802/GabrielLF1802/main/assets/profile-banner.svg" alt="Gabriel Lourenço Faria — Software Developer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Gabriel%20Louren%C3%A7o%20Faria&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Gabriel Lourenço Faria">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+Scalable+APIs;Event-driven+Architecture+%26+Observability;Always+building%2C+testing%2C+and+learning." alt="Animated introduction">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="mailto:gabriellourencofaria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Send an email">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GabrielLF1802&style=flat-square&color=6c63ff&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
-## About me
+## 👨‍💻 About me
 
-Software Developer focused on building reliable **RESTful APIs, microservices, and asynchronous workflows**. I enjoy turning architecture, reliability, and user-experience challenges into simple, maintainable solutions.
+I am a Software Developer focused on building and improving **RESTful APIs, microservices, and asynchronous workflows**. I enjoy turning architecture, reliability, and user-experience challenges into simple, maintainable solutions.
 
-<p align="center">
-  <code>📍 Franca, SP, Brazil</code>
-  <code>🎓 Computer Science — UNIFRAN</code>
-  <code>🌱 Systems, architecture & applied AI</code>
-</p>
+- 📍 Franca, SP, Brazil
+- 🎓 B.Sc. in Computer Science — UNIFRAN
+- 🌱 Currently deepening my knowledge of software architecture, distributed systems, and applied AI
+- 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
+
+## ⚙️ What I work with
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### ⚡ Backend & architecture
-
-Java · Spring Boot · REST APIs · Microservices  
-RabbitMQ · Transactional Outbox · Inbox Pattern  
-PostgreSQL · MongoDB · Docker
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📈 Reliability & quality
-
-Prometheus · Grafana · Micrometer · Loki  
-OAuth 2.0 · JWT · Spring Security  
-JUnit 5 · Mockito · TDD · BDD
-
-    </td>
+    <td>🔌 <strong>Backend</strong></td>
+    <td>Java, Spring Boot, Spring Data JPA, and PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Event-driven systems</strong></td>
+    <td>RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs</td>
+  </tr>
+  <tr>
+    <td>🛡️ <strong>Security</strong></td>
+    <td>OAuth 2.0, JWT, Spring Security, and rate limiting</td>
+  </tr>
+  <tr>
+    <td>📈 <strong>Observability</strong></td>
+    <td>Prometheus, Grafana, Micrometer, and Loki</td>
+  </tr>
+  <tr>
+    <td>🤖 <strong>Applied AI</strong></td>
+    <td>OpenAI API, Ollama, RAG, and MCP</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Quality</strong></td>
+    <td>JUnit 5, Mockito, TDD, BDD, and integration testing</td>
   </tr>
 </table>
 
-## Tech stack
+## 🧰 Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Angular-20-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
-## GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=tokyonight" alt="Contribution graph for GabrielLF1802">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielLF1802&theme=tokyonight" alt="Most used languages by GabrielLF1802">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielLF1802&theme=tokyonight" alt="GitHub statistics for GabrielLF1802">
 </p>
 
 <p align="center">
-  <sub>Public contribution activity • Updated automatically by GitHub</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=tokyonight" alt="GitHub contribution graph for GabrielLF1802">
 </p>
 
-## Technical highlights
+## ✨ Technical highlights
 
-- **~40% faster** complex searches after removing N+1 bottlenecks with Spring Data JPA Entity Graphs.
-- Reliable event publication with Transactional Outbox and RabbitMQ, supporting **1,500+ business events per day**.
-- **~45% faster** critical endpoints, strengthened through unit and integration tests.
-- Ongoing work with ADRs, API documentation, and architecture decision records.
+- 🚀 Reduced complex-search processing time by approximately **40%** by eliminating N+1 bottlenecks with Spring Data JPA Entity Graphs.
+- 📬 Built reliable event publication with Transactional Outbox and RabbitMQ, supporting more than **1,500 business events per day**.
+- ⚙️ Improved critical endpoints by approximately **45%**, reinforcing business rules with unit and integration testing.
+- 📝 Continuously write ADRs, API documentation, and architecture decision records.
 
-## Let's connect
+## 🤝 Let's connect
+
+Whether you want to discuss **backend engineering, system design, software quality, observability, or applied AI**, I would be happy to connect.
 
 <p align="center">
-  Interested in <strong>backend engineering</strong>, <strong>system design</strong>, <strong>software quality</strong>, <strong>observability</strong>, or <strong>applied AI</strong>?<br><br>
   <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Gabriel on LinkedIn">
+    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message Gabriel on LinkedIn">
   </a>
   <a href="mailto:gabriellourencofaria@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gabriel">
+    <img src="https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Gabriel an email">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:10172A,100:05070D&height=95&section=footer" alt="">
+  <sub>Thanks for stopping by — feel free to explore and connect.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=90&section=footer" alt="">
 </p>
