@@ -36,29 +36,29 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
 ## 🧰 Java backend stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-1E88E5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-1976D2?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring%20Security-1976D2?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/PostgreSQL-1565C0?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
-  <img src="https://img.shields.io/badge/RabbitMQ-0288D1?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/JUnit%205-039BE5?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
-  <img src="https://img.shields.io/badge/Docker-0277BD?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Prometheus-01579B?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Java-B86B25?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-4F8A4B?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring%20Security-4F8A4B?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/PostgreSQL-4E6E8E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
+  <img src="https://img.shields.io/badge/RabbitMQ-A65C2D?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/JUnit%205-558C6A?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Docker-4A789C?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Prometheus-9A624D?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 
 ## ⚙️ Complementary technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-1E88E5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-1976D2?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/MongoDB-1565C0?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Angular-A95A68?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-4D78A8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/MongoDB-4F8A68?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0288D1?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Grafana-039BE5?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/OpenAI%20API-1565C0?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-  <img src="https://img.shields.io/badge/Ollama-0D47A1?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-4D6C9E?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Grafana-9A714B?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/OpenAI%20API-5D647A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Ollama-303841?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
 </p>
 
 ## 📊 GitHub activity
