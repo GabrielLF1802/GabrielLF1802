@@ -26,34 +26,12 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
 - 🌱 Focused on software architecture, distributed systems, and backend reliability
 - 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
-## ⚙️ What I work with
+## Core expertise
 
-<table>
-  <tr>
-    <td>☕ <strong>Java backend</strong></td>
-    <td>Java, Spring Boot, Spring Data JPA, Spring Security, and REST APIs</td>
-  </tr>
-  <tr>
-    <td>⚡ <strong>Event-driven systems</strong></td>
-    <td>RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs</td>
-  </tr>
-  <tr>
-    <td>🗄️ <strong>Data</strong></td>
-    <td>PostgreSQL, MongoDB, SQL, and Flyway migrations</td>
-  </tr>
-  <tr>
-    <td>🛡️ <strong>Security</strong></td>
-    <td>OAuth 2.0, JWT, Spring Security, and rate limiting</td>
-  </tr>
-  <tr>
-    <td>📈 <strong>Operations</strong></td>
-    <td>Docker, Prometheus, Grafana, Micrometer, and Loki</td>
-  </tr>
-  <tr>
-    <td>✅ <strong>Quality</strong></td>
-    <td>JUnit 5, Mockito, TDD, BDD, and integration testing</td>
-  </tr>
-</table>
+- **Java & Spring:** Java, Spring Boot, Spring Data JPA, Spring Security, and REST APIs.
+- **Architecture & integration:** Microservices, RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs.
+- **Data & reliability:** PostgreSQL, MongoDB, Flyway, Docker, Prometheus, Grafana, Micrometer, and Loki.
+- **Security & quality:** OAuth 2.0, JWT, rate limiting, JUnit 5, Mockito, TDD, BDD, and integration testing.
 
 ## 🧰 Java backend stack
 
