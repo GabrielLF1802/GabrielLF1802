@@ -93,7 +93,7 @@ function statRow(icon, label, value, y) {
 const year = now.getUTCFullYear();
 const statsSvg = svgShell(400, 230, `
   <text x="28" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="${theme.title}">${xml(login)}'s GitHub activity</text>
-  <text x="28" y="61" font-family="Arial, sans-serif" font-size="12" fill="${theme.muted)">Private-aware totals · ${year}</text>
+  <text x="28" y="61" font-family="Arial, sans-serif" font-size="12" fill="${theme.muted}">Private-aware totals · ${year}</text>
   ${statRow("✦", "Commits this year", stats.totalCommitContributions.toLocaleString(), 96)}
   ${statRow("⑂", "Pull requests", stats.totalPullRequestContributions.toLocaleString(), 126)}
   ${statRow("◉", "Code reviews", stats.totalPullRequestReviewContributions.toLocaleString(), 156)}
@@ -125,7 +125,7 @@ const languageRows = sortedLanguages.map(([name, bytes], index) => {
 
 const languagesSvg = svgShell(400, 230, `
   <text x="28" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="${theme.title}">Languages across authorized repositories</text>
-  <text x="28" y="58" font-family="Arial, sans-serif" font-size="12" fill="${theme.muted)">By code volume · excludes forks and archived repositories</text>
+  <text x="28" y="58" font-family="Arial, sans-serif" font-size="12" fill="${theme.muted}">By code volume · excludes forks and archived repositories</text>
   <rect x="28" y="69" width="344" height="12" rx="6" fill="#2a2634"/>
   ${segments}
   ${languageRows}
