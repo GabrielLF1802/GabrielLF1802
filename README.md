@@ -64,7 +64,7 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=tokyonight" alt="GitHub contribution graph for GabrielLF1802">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=github_dark" alt="GitHub contribution graph for GabrielLF1802">
 </p>
 
 ## ✨ Technical highlights
