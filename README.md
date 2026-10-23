@@ -17,14 +17,20 @@
   </a>
 </p>
 
-## 👨‍💻 About me
+<p align="center">
+  <sub>JAVA BACKEND · RELIABLE SYSTEMS · CONTINUOUS LEARNING</sub>
+</p>
+
+---
+
+## About me
 
 I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I build reliable RESTful APIs, microservices, and asynchronous workflows, with a focus on architecture, performance, and maintainability.
 
-- 📍 Franca, SP, Brazil
-- 🎓 B.Sc. in Computer Science — UNIFRAN
-- 🌱 Focused on software architecture, distributed systems, and backend reliability
-- 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
+> **Location:** Franca, SP, Brazil  
+> **Education:** B.Sc. in Computer Science — UNIFRAN  
+> **Focus:** Software architecture, distributed systems, and backend reliability  
+> **Currently building:** **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
 ## Core expertise
 
@@ -33,7 +39,7 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
 - **Data & reliability:** PostgreSQL, MongoDB, Flyway, Docker, Prometheus, Grafana, Micrometer, and Loki.
 - **Security & quality:** OAuth 2.0, JWT, rate limiting, JUnit 5, Mockito, TDD, BDD, and integration testing.
 
-## 🧰 Java backend stack
+## Java backend stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-B86B25?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -46,7 +52,7 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
   <img src="https://img.shields.io/badge/Prometheus-9A624D?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
 </p>
 
-## ⚙️ Complementary technologies
+## Complementary technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-A95A68?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -61,20 +67,24 @@ I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I bu
   <img src="https://img.shields.io/badge/Ollama-303841?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
 </p>
 
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=github_dark" alt="GitHub contribution graph for GabrielLF1802">
 </p>
 
-## ✨ Technical highlights
+---
 
-- 🚀 Reduced complex-search processing time by approximately **40%** by eliminating N+1 bottlenecks with Spring Data JPA Entity Graphs.
-- 📬 Built reliable event publication with Transactional Outbox and RabbitMQ, supporting more than **1,500 business events per day**.
-- ⚙️ Improved critical endpoints by approximately **45%**, reinforcing business rules with unit and integration testing.
-- 📝 Continuously write ADRs, API documentation, and architecture decision records.
+## Technical highlights
 
-## 🤝 Let's connect
+- Reduced complex-search processing time by approximately **40%** by eliminating N+1 bottlenecks with Spring Data JPA Entity Graphs.
+- Built reliable event publication with Transactional Outbox and RabbitMQ, supporting more than **1,500 business events per day**.
+- Improved critical endpoints by approximately **45%**, reinforcing business rules with unit and integration testing.
+- Continuously write ADRs, API documentation, and architecture decision records.
+
+---
+
+## Let's connect
 
 Whether you want to discuss **backend engineering, system design, software quality, observability, or applied AI**, I would be happy to connect.
 
