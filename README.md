@@ -74,8 +74,8 @@ I am a Software Developer focused on building and improving **RESTful APIs, micr
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielLF1802&theme=tokyonight" alt="Most used languages by GabrielLF1802">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielLF1802&theme=tokyonight" alt="GitHub statistics for GabrielLF1802">
+  <img src="https://raw.githubusercontent.com/GabrielLF1802/GabrielLF1802/main/assets/top-languages.svg" alt="Languages across authorized repositories">
+  <img src="https://raw.githubusercontent.com/GabrielLF1802/GabrielLF1802/main/assets/profile-stats.svg" alt="Private-aware GitHub activity">
 </p>
 
 <p align="center">
