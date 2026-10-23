@@ -3,35 +3,41 @@
 </p>
 
 <p align="center">
-  <strong>Java Backend Developer</strong><br>
-  Spring Boot · REST APIs · Event-driven systems
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Microservices+%7C+Event-driven+Systems;Building+reliable+backend+solutions." alt="Animated introduction">
+  </a>
 </p>
 
 <p align="center">
-  <sub>Franca, SP, Brazil &nbsp;·&nbsp; Computer Science at UNIFRAN</sub>
+  <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:gabriellourencofaria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-1976D2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email">
+  </a>
+</p>
+
+<p align="center">
+  <sub>JAVA BACKEND · RELIABLE SYSTEMS · CONTINUOUS LEARNING</sub>
 </p>
 
 ---
 
-## A little about me
+## About me
 
-I build Java backends that stay fast and dependable as they grow. My work spans API design, messaging, data access, testing, and the operational details that keep a service healthy after release.
+I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I build reliable RESTful APIs, microservices, and asynchronous workflows, with a focus on architecture, performance, and maintainability.
 
-Outside of that work, I'm building **Sudolife**, a full-stack platform for adaptive sports plans powered by AI.
+> **Location:** Franca, SP, Brazil  
+> **Education:** B.Sc. in Computer Science — UNIFRAN  
+> **Focus:** Software architecture, distributed systems, and backend reliability  
+> **Currently building:** **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
-## What I build
+## Core expertise
 
-- **APIs that perform:** Java and Spring Boot services, PostgreSQL data access, and well-defined REST contracts.
-- **Flows that hold up:** asynchronous processing with RabbitMQ, Outbox and Inbox patterns, retries, and dead-letter queues.
-- **Services that can be trusted:** security, automated tests, metrics, logs, and documentation that make problems easier to find and fix.
-
-## Selected results
-
-- **~40% faster complex searches** after resolving N+1 queries with Spring Data JPA Entity Graphs.
-- **1,500+ business events per day** published consistently using Transactional Outbox and RabbitMQ.
-- **~45% faster critical endpoints** following API refactoring and reinforcement of business rules with automated tests.
-
----
+- **Java & Spring:** Java, Spring Boot, Spring Data JPA, Spring Security, and REST APIs.
+- **Architecture & integration:** Microservices, RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs.
+- **Data & reliability:** PostgreSQL, MongoDB, Flyway, Docker, Prometheus, Grafana, Micrometer, and Loki.
+- **Security & quality:** OAuth 2.0, JWT, rate limiting, JUnit 5, Mockito, TDD, BDD, and integration testing.
 
 ## Tools I use
 
@@ -68,15 +74,32 @@ Outside of that work, I'm building **Sudolife**, a full-stack platform for adapt
 
 ---
 
-## Let's talk
+## Technical highlights
 
-I enjoy conversations about Java, backend architecture, reliable integrations, and the trade-offs behind good software. If any of that overlaps with what you're building, get in touch.
+- Reduced complex-search processing time by approximately **40%** by eliminating N+1 bottlenecks with Spring Data JPA Entity Graphs.
+- Built reliable event publication with Transactional Outbox and RabbitMQ, supporting more than **1,500 business events per day**.
+- Improved critical endpoints by approximately **45%**, reinforcing business rules with unit and integration testing.
+- Continuously write ADRs, API documentation, and architecture decision records.
 
-<p>
+---
+
+## Let's connect
+
+Whether you want to discuss **backend engineering, system design, software quality, observability, or applied AI**, I would be happy to connect.
+
+<p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Gabriel on LinkedIn">
+    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message Gabriel on LinkedIn">
   </a>
   <a href="mailto:gabriellourencofaria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-1976D2?style=flat-square&logo=gmail&logoColor=white" alt="Email Gabriel">
+    <img src="https://img.shields.io/badge/Send%20me%20an-Email-1976D2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Gabriel an email">
   </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — feel free to explore and connect.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=90&section=footer" alt="">
 </p>
