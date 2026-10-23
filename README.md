@@ -22,7 +22,7 @@
 I am a Software Developer focused on building and improving **RESTful APIs, microservices, and asynchronous workflows**. I enjoy turning architecture, reliability, and user-experience challenges into simple, maintainable solutions.
 
 - 📍 Franca, SP, Brazil
-- 🎓 B.Sc. in Computer Science — UNIFRAN (in progress)
+- 🎓 B.Sc. in Computer Science — UNIFRAN
 - 🌱 Currently deepening my knowledge of software architecture, distributed systems, and applied AI
 - 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
@@ -31,7 +31,7 @@ I am a Software Developer focused on building and improving **RESTful APIs, micr
 <table>
   <tr>
     <td>🔌 <strong>Backend</strong></td>
-    <td>Java 21, Spring Boot, Spring Data JPA, and PostgreSQL</td>
+    <td>Java, Spring Boot, Spring Data JPA, and PostgreSQL</td>
   </tr>
   <tr>
     <td>⚡ <strong>Event-driven systems</strong></td>
@@ -58,7 +58,7 @@ I am a Software Developer focused on building and improving **RESTful APIs, micr
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Angular-20-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
@@ -72,11 +72,6 @@ I am a Software Developer focused on building and improving **RESTful APIs, micr
 </p>
 
 ## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielLF1802&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for GabrielLF1802">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielLF1802&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for GabrielLF1802">
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=tokyonight" alt="GitHub contribution graph for GabrielLF1802">
