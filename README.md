@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+Scalable+APIs;Event-driven+Architecture+%26+Observability;Always+building%2C+testing%2C+and+learning." alt="Animated introduction">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Microservices+%7C+Event-driven+Systems;Building+reliable+backend+solutions." alt="Animated introduction">
   </a>
 </p>
 
@@ -19,35 +19,35 @@
 
 ## 👨‍💻 About me
 
-I am a Software Developer focused on building and improving **RESTful APIs, microservices, and asynchronous workflows**. I enjoy turning architecture, reliability, and user-experience challenges into simple, maintainable solutions.
+I am a **Java Backend Developer** specializing in **Java and Spring Boot**. I build reliable RESTful APIs, microservices, and asynchronous workflows, with a focus on architecture, performance, and maintainability.
 
 - 📍 Franca, SP, Brazil
 - 🎓 B.Sc. in Computer Science — UNIFRAN
-- 🌱 Currently deepening my knowledge of software architecture, distributed systems, and applied AI
+- 🌱 Focused on software architecture, distributed systems, and backend reliability
 - 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
 ## ⚙️ What I work with
 
 <table>
   <tr>
-    <td>🔌 <strong>Backend</strong></td>
-    <td>Java, Spring Boot, Spring Data JPA, and PostgreSQL</td>
+    <td>☕ <strong>Java backend</strong></td>
+    <td>Java, Spring Boot, Spring Data JPA, Spring Security, and REST APIs</td>
   </tr>
   <tr>
     <td>⚡ <strong>Event-driven systems</strong></td>
     <td>RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs</td>
   </tr>
   <tr>
+    <td>🗄️ <strong>Data</strong></td>
+    <td>PostgreSQL, MongoDB, SQL, and Flyway migrations</td>
+  </tr>
+  <tr>
     <td>🛡️ <strong>Security</strong></td>
     <td>OAuth 2.0, JWT, Spring Security, and rate limiting</td>
   </tr>
   <tr>
-    <td>📈 <strong>Observability</strong></td>
-    <td>Prometheus, Grafana, Micrometer, and Loki</td>
-  </tr>
-  <tr>
-    <td>🤖 <strong>Applied AI</strong></td>
-    <td>OpenAI API, Ollama, RAG, and MCP</td>
+    <td>📈 <strong>Operations</strong></td>
+    <td>Docker, Prometheus, Grafana, Micrometer, and Loki</td>
   </tr>
   <tr>
     <td>✅ <strong>Quality</strong></td>
@@ -55,21 +55,24 @@ I am a Software Developer focused on building and improving **RESTful APIs, micr
   </tr>
 </table>
 
-## 🧰 Tech stack
+## 🧰 Java backend stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Angular-20-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
+
+<details>
+  <summary><strong>Complementary technologies</strong></summary>
+  <br>
+  Angular · TypeScript · MongoDB · GitHub Actions · Grafana · OpenAI API · Ollama
+</details>
 
 ## 📊 GitHub activity
 
