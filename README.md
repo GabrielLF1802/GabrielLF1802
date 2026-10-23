@@ -1,61 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Gabriel%20Louren%C3%A7o%20Faria&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Cabeçalho de Gabriel Lourenço Faria">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Gabriel%20Louren%C3%A7o%20Faria&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Gabriel Lourenço Faria">
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Desenvolvedor+de+Software;Java+%7C+Spring+Boot+%7C+APIs+escal%C3%A1veis;Arquitetura+orientada+a+eventos+%26+observabilidade;Sempre+construindo%2C+testando+e+aprendendo." alt="Descrição animada">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+Scalable+APIs;Event-driven+Architecture+%26+Observability;Always+building%2C+testing%2C+and+learning." alt="Animated introduction">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Louren%C3%A7o%20Faria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
   <a href="mailto:gabriellourencofaria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email">
   </a>
 </p>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Desenvolvedor de Software focado em construir e evoluir **APIs RESTful, microserviços e fluxos assíncronos**. Gosto de transformar problemas de arquitetura, confiabilidade e experiência em soluções simples e sustentáveis.
+I am a Software Developer focused on building and improving **RESTful APIs, microservices, and asynchronous workflows**. I enjoy turning architecture, reliability, and user-experience challenges into simple, maintainable solutions.
 
-- 📍 Franca, SP, Brasil
-- 🎓 Bacharelado em Ciência da Computação — UNIFRAN (em andamento)
-- 🌱 Aprofundando conhecimentos em arquitetura de software, sistemas distribuídos e IA aplicada
-- 🏗️ Desenvolvendo o **Sudolife**, uma plataforma full stack de planos esportivos adaptativos com IA
+- 📍 Franca, SP, Brazil
+- 🎓 B.Sc. in Computer Science — UNIFRAN (in progress)
+- 🌱 Currently deepening my knowledge of software architecture, distributed systems, and applied AI
+- 🏗️ Building **Sudolife**, a full-stack platform for AI-powered adaptive sports plans
 
-## ⚙️ No que trabalho
+## ⚙️ What I work with
 
 <table>
   <tr>
     <td>🔌 <strong>Backend</strong></td>
-    <td>Java 21, Spring Boot, Spring Data JPA e PostgreSQL</td>
+    <td>Java 21, Spring Boot, Spring Data JPA, and PostgreSQL</td>
   </tr>
   <tr>
-    <td>⚡ <strong>Eventos</strong></td>
-    <td>RabbitMQ, Transactional Outbox, Inbox Pattern e DLQs</td>
+    <td>⚡ <strong>Event-driven systems</strong></td>
+    <td>RabbitMQ, Transactional Outbox, Inbox Pattern, and DLQs</td>
   </tr>
   <tr>
-    <td>🛡️ <strong>Segurança</strong></td>
-    <td>OAuth 2.0, JWT, Spring Security e rate limiting</td>
+    <td>🛡️ <strong>Security</strong></td>
+    <td>OAuth 2.0, JWT, Spring Security, and rate limiting</td>
   </tr>
   <tr>
-    <td>📈 <strong>Observabilidade</strong></td>
-    <td>Prometheus, Grafana, Micrometer e Loki</td>
+    <td>📈 <strong>Observability</strong></td>
+    <td>Prometheus, Grafana, Micrometer, and Loki</td>
   </tr>
   <tr>
-    <td>🤖 <strong>IA aplicada</strong></td>
-    <td>OpenAI API, Ollama, RAG e MCP</td>
+    <td>🤖 <strong>Applied AI</strong></td>
+    <td>OpenAI API, Ollama, RAG, and MCP</td>
   </tr>
   <tr>
-    <td>✅ <strong>Qualidade</strong></td>
-    <td>JUnit 5, Mockito, TDD, BDD e testes de integração</td>
+    <td>✅ <strong>Quality</strong></td>
+    <td>JUnit 5, Mockito, TDD, BDD, and integration testing</td>
   </tr>
 </table>
 
-## 🧰 Tecnologias
+## 🧰 Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21">
@@ -71,20 +71,39 @@ Desenvolvedor de Software focado em construir e evoluir **APIs RESTful, microser
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
-## ✨ Destaques técnicos
-
-- 🚀 Reduzi em cerca de **40%** o tempo de buscas complexas ao eliminar gargalos N+1 com Spring Data JPA Entity Graphs.
-- 📬 Estruturei publicação confiável de eventos com Transactional Outbox e RabbitMQ, atendendo mais de **1.500 eventos de negócio por dia**.
-- ⚙️ Melhorei endpoints críticos em cerca de **45%**, reforçando regras de negócio com testes unitários e de integração.
-- 📝 Produzo ADRs, documentação de APIs e registros de decisões de arquitetura.
-
-## 🤝 Vamos conversar?
-
-Estou aberto a trocar ideias sobre backend, arquitetura, qualidade de software, observabilidade e IA aplicada.
+## 📊 GitHub activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">LinkedIn</a> ·
-  <a href="mailto:gabriellourencofaria@gmail.com">E-mail</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielLF1802&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics for GabrielLF1802">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielLF1802&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for GabrielLF1802">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLF1802&theme=tokyonight" alt="GitHub contribution graph for GabrielLF1802">
+</p>
+
+## ✨ Technical highlights
+
+- 🚀 Reduced complex-search processing time by approximately **40%** by eliminating N+1 bottlenecks with Spring Data JPA Entity Graphs.
+- 📬 Built reliable event publication with Transactional Outbox and RabbitMQ, supporting more than **1,500 business events per day**.
+- ⚙️ Improved critical endpoints by approximately **45%**, reinforcing business rules with unit and integration testing.
+- 📝 Continuously write ADRs, API documentation, and architecture decision records.
+
+## 🤝 Let's connect
+
+Whether you want to discuss **backend engineering, system design, software quality, observability, or applied AI**, I would be happy to connect.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-lourenco-faria/">
+    <img src="https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message Gabriel on LinkedIn">
+  </a>
+  <a href="mailto:gabriellourencofaria@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Gabriel an email">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — feel free to explore and connect.</sub>
 </p>
 
 <p align="center">
